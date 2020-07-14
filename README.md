@@ -7,6 +7,7 @@
 
 ### 👋 Hello, welcome nice to see you here
 
-- teste
-
+- :iphone: Mobile developer, currently focusing on Flutter
+- :mortar_board: I have a degree in System Analysis and Development
+- :raised_hands: Always willing to help when necessary, as long as I have knowledge about the subject
 
